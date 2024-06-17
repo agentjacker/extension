@@ -20,7 +20,7 @@
         "eth-trezor-keyring": "https://github.com/block-wallet/eth-trezor-keyring#v0.10.2",
         "ethereumjs-util": "^7.0.7",
         "ethereumjs-wallet": "^1.0.1",
-        "ethers": "^5.4.0",
+        "ethers": "^6.0.0",
         "lodash": "^4.17.21",
         "loglevel": "^1.7.1",
         "schema-validator": "git+https://github.com/block-wallet/schema-validator.git",
