@@ -14,7 +14,7 @@
         "bip39": "^3.0.3",
         "browser-passworder": "^2.0.3",
         "compare-versions": "^3.6.0",
-        "eslint-webpack-plugin": "^3.2.0",
+        "eslint-webpack-plugin": "^5.0.0",
         "eth-ens-namehash": "^2.0.8",
         "eth-keyring-controller": "^6.2.0",
         "eth-trezor-keyring": "https://github.com/block-wallet/eth-trezor-keyring#v0.10.2",
